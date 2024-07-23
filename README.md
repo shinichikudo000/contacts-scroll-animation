@@ -1,1 +1,1 @@
-<video src='/videos/vid.mp4'>
+<video src='videos/vid.mp4'>
