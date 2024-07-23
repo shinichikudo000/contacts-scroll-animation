@@ -1,4 +1,2 @@
-
-
-Uploading 4b2dc1bb-6388-467f-8aea-1e8f4eea883f.mp4…
+[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/vnmYegJo7uQ)
 
